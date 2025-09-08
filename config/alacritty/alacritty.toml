@@ -1,0 +1,22 @@
+[colors.primary]
+background = "0x1e1e2e"
+foreground = "0xcdd6f4"
+
+[cursor]
+style = "Beam"
+unfocused_hollow = true
+
+[font]
+size = 20.0
+
+[scrolling]
+history = 500
+
+[window]
+decorations = "none"
+opacity = 0.8 # Example: 80% opaque, 20% transparent
+
+[window.padding]
+x = 4
+y = 4
+

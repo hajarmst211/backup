@@ -1,0 +1,28 @@
+# Font
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+    style: Regular
+  size: 12.0
+
+# Remove extra padding
+window:
+  padding:
+    x: 4
+    y: 4
+  decorations: none # hides window titlebar for a cleaner look
+
+# Colors: simple dark theme
+colors:
+  primary:
+    background: '0x1e1e2e'
+    foreground: '0xcdd6f4'
+
+# No scrollback bloat
+scrolling:
+  history: 500
+
+# Cursor
+cursor:
+  style: Beam
+  unfocused_hollow: true
